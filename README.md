@@ -14,7 +14,7 @@ Key Components Fulfilled:
 Best-performing algorithm: Random Forest Regressor
 Worst-performing algorithm: Linear Regression
 
-5. Cross-Validated and Hyperparameter Tuned
+4. Cross-Validated and Hyperparameter Tuned
 Performed k-fold cross-validation (k=5) for all models to ensure robust performance evaluation.
 Used GridSearchCV to fine-tune the hyperparameters of each model.
 
